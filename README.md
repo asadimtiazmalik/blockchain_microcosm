@@ -1,6 +1,6 @@
 
 
-##Block Chain Microcosm 
+#Block Chain Microcosm 
 
 Blockchains are data structures where blocks are inseparably connected. 
 What makes blockchains so special is the security level they offer due to the way they are constructed.
