@@ -1,6 +1,6 @@
 
 
-#Block Chain Microcosm 
+# Block Chain Microcosm 
 
 Blockchains are data structures where blocks are inseparably connected. 
 What makes blockchains so special is the security level they offer due to the way they are constructed.
@@ -15,5 +15,4 @@ integrity and security of the blockchain is maintained at every stage during the
 of the blockchain. Every Message which is a part of the block contains a unique ID.
 All of this has been beautifully blended together in the code. 
 
-The word document contains all the outputs of our code and also contains a UML 
-Diagram.
+
